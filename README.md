@@ -14,6 +14,6 @@ Tech Stack : Python
              EDA .
 
 Screenshots: 
--> Banking Analysis Dashboard = 
+-> Banking Analysis Dashboard = https://github.com/mayur861/Banking-Analysis-Dashboard/blob/main/Banking-Dashboard.png
 
             
